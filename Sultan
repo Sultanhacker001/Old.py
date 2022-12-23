@@ -1,0 +1,13 @@
+# Old.py
+
+
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pip2 install requests
+pip2 install mechanize
+termux-setup-storage
+git clone https://github.com/sultanhacker001/old_fb
+cd old_fb
+python2 sultan.py
