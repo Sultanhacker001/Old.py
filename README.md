@@ -6,8 +6,8 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/dark web/old_fb
+git clone https://github.com/darkweb/old_fb
 
 cd old_fb
 
-python2 dark web.py
+python2 darkweb.py
